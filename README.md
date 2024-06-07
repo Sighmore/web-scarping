@@ -7,19 +7,19 @@ DevTools Skills: Knowing how to use DevTools to extract selectors of elements is
 
 What You'll Learn
 
-How to Build a JavaScript Web Scraper for Static Pages: We'll cover the basics of web scraping, including fetching HTML source code and parsing data.
-Using Axios and Cheerio: Learn how to use Axios to fetch HTML and Cheerio to parse and extract data.
-Scraping Dynamic Pages with Puppeteer: Discover how to use Puppeteer to control a headless chromium-browser and scrape dynamic content.
+How to Build a JavaScript Web Scraper for Static and Dynamic Pages: We'll cover the basics of web scraping, including fetching HTML source code and parsing data.
+Using Axios, puppeteer and Cheerio: Learn how to use Axios to fetch HTML and Cheerio to parse and extract data.
+Scraping Dynamic Pages with Puppeteer: Discover how to use Puppeteer to control a headless Chromium browser and scrape dynamic content.
 
 Step-by-Step Guide
 Step 1: Install Node.js
 Download Node.js from https://nodejs.org/en/download/ and follow the prompts.
-Verify Node.js and npm are installed by running node -v and npm -v in your terminal.
+Verify that Node.js and npm are installed by running node -v and npm -v in your terminal.
 
 Step 2: Get Your Workspace Ready
-Create a new folder called firstscraper.
+Create a new folder called Web Scraper nodejs
 Initialize a package.json file using npm init -y.
-Install dependencies using npm install axios cheerio puppeteer.
+Install dependencies using npm and install Axis Cheerio Puppeer.
 
 Step 3: Fetch the HTML Code Using Axios
 Create a new file called scraperapi.js.
